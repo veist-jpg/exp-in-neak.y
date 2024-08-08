@@ -4,11 +4,7 @@
  * @description Combine Discord and Spotify into one
  * @author neak.y - Exp
  *
- * @website http://github.com/CapnKitten
- * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Spotify-Discord/css/source.css
- * @donate https://paypal.me/capnkitten
- * @invite jzJkA6Z
- */
+ * @website http://github.com/veist-jpg
 
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Spotify-Discord/css/source.css);
 
